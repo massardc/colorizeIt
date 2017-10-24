@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  ColorizeIt
 //
-//  Created by School on 24/10/2017.
+//  Created by Clément on 24/10/2017.
 //  Copyright © 2017 ClementM. All rights reserved.
 //
 
